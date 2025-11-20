@@ -1,4 +1,4 @@
-📘 GUI Calculator — Python + Tkinter
+# 📘 GUI Calculator — Python + Tkinter
 A colorful beginner-friendly graphical calculator built with Python.
 
 🧮 About the Project
@@ -43,10 +43,10 @@ README.md
 
 📂 Project Structure
 /your-project-folder
-│── calc-img.read.png     # Screenshot used in README
-│── calc-icon.ico         # Window icon
-│── main.py               # Calculator source code
-│── README.md             # This file
+│── calc-img.read.png     Screenshot used in README
+│── calc-icon.ico         Window icon
+│── main.py               Calculator source code
+│── README.md             This file
 
 🧠 Code Overview
 The core logic uses a single string (all_values) to store the current mathematical expression.
